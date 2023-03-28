@@ -1,6 +1,5 @@
 ﻿# Gustavo Marcialis
-
-## Desenvolvedor Front-end
+***Desenvolvedor Front-end***
 
 (13) 981109336    |   [ gustavo.s.marcialis@gmail.com ](mailto:gustavo.s.marcialis@gmail.com)  |    [ www.linkedin.com/in/gustavomarcialis ](http://www.linkedin.com/in/gustavomarcialis)
 
@@ -13,12 +12,14 @@ Sou um desenvolvedor Web PcD com foco em front-end. Formado no técnico em Infor
 Tenho conhecimentos em HTML5, CSS3, JavaScript, PHP, Bootstrap, MySQL, Git e GitHub.
 
 
-## PORTFÓLIO <https://github.com/gustavo-marcialis>
+## PORTFÓLIO 
+<https://github.com/gustavo-marcialis>
 
 
 ## EXPERIÊNCIA
 
-***Professor de Programação e Algoritmo – Sequencial Escola Técnica*** (maio *de 2022 a dezembro de 2022)* **Atribuições do cargo**: 
+***Professor de Programação e Algoritmo – Sequencial Escola Técnica*** (maio de 2022 a dezembro de 2022) 
+***Atribuições do cargo*** 
 
 - Ensinei as linguagens básicas para desenvolvimento web;
 - Organizei e preparei aulas e atividades avaliativas;
@@ -28,6 +29,7 @@ Tenho conhecimentos em HTML5, CSS3, JavaScript, PHP, Bootstrap, MySQL, Git e Git
 ## CURSOS COMPLEMENTARES | EVENTOS
 
 - Informática para Internet - Etec Centro Paula Souza, Praia Grande - 12/2021
+
 
 ## COMPETÊNCIAS ADICIONAIS** 
 
