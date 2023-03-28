@@ -1,5 +1,7 @@
 ﻿# Gustavo Marcialis
 ***Desenvolvedor Front-end***
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
 
 (13) 981109336    |   [ gustavo.s.marcialis@gmail.com ](mailto:gustavo.s.marcialis@gmail.com)  |    [ www.linkedin.com/in/gustavomarcialis ](http://www.linkedin.com/in/gustavomarcialis)
 
@@ -31,10 +33,7 @@ Tenho conhecimentos em HTML5, CSS3, JavaScript, PHP, Bootstrap, MySQL, Git e Git
 - Informática para Internet - Etec Centro Paula Souza, Praia Grande - 12/2021
 
 
-## COMPETÊNCIAS ADICIONAIS** 
-
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
+## COMPETÊNCIAS
 
 - HTML5
 - CSS3
