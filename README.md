@@ -21,6 +21,7 @@ Tenho conhecimentos em HTML5, CSS3, JavaScript, PHP, Bootstrap, MySQL, Git e Git
 ## EXPERIÊNCIA
 
 ***Professor de Programação e Algoritmo – Sequencial Escola Técnica*** (maio de 2022 a dezembro de 2022) 
+
 ***Atribuições do cargo*** 
 
 - Ensinei as linguagens básicas para desenvolvimento web;
