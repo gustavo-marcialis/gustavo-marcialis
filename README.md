@@ -1,7 +1,7 @@
 # Gustavo Marcialis
 ***Desenvolvedor Front-end***
 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![C#](https://img.shields.io/badge/C#-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 
 (13) 98110-9336  |  [ gustavo.s.marcialis@gmail.com ](mailto:gustavo.s.marcialis@gmail.com)  |    [ www.linkedin.com/in/gustavomarcialis ](http://www.linkedin.com/in/gustavomarcialis)
@@ -13,7 +13,7 @@
 Sou um desenvolvedor Web PcD com foco em front-end. Formado no técnico em Informática para Internet, já desenvolvi projetos  em  WordPress  utilizando  as  ferramentas Elementor  e  WooCommerce, além  de  páginas  web  utilizando  o framework Bootstrap e conceitos de CSS flex-box, HTML semântico e JavaScript DOM, como uma calculadora de IMC, que solicita o peso e altura do cliente, calcula e apresenta seu Índice de Massa Corporal, uma tela visual de login e uma calculadora de gorjetas que, com base no valor total consumido e porcentagem da gorjeta, calcula e mostra o valor da gorjeta e total a ser pago. 
 
 
-Tenho conhecimentos em HTML5, CSS3, JavaScript, PHP, Bootstrap, MySQL, Git e GitHub.
+Tenho conhecimentos em HTML5, CSS3, JavaScript, PHP, Bootstrap, C#, MySQL, Git e GitHub.
 
 
 
