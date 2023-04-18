@@ -7,7 +7,7 @@
   
  💬 Entre em contato comigo por Email, WhatsApp ou Linkedin! 
 
-﻿![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)[](http://www.linkedin.com/in/gustavomarcialis)
+﻿![](Aspose.Words.b1a01894-9c7d-491c-bdb8-a75dc05dd695.001.png)[](http://www.linkedin.com/in/gustavomarcialis)
   
  ---- 
   
