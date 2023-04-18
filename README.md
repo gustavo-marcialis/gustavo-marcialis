@@ -7,7 +7,7 @@
   
  💬 Entre em contato comigo por Email, WhatsApp ou Linkedin! 
 
-﻿![](Aspose.Words.b1a01894-9c7d-491c-bdb8-a75dc05dd695.001.png)[](http://www.linkedin.com/in/gustavomarcialis)
+(13) 98110-9336  |  [ gustavo.s.marcialis@gmail.com ](mailto:gustavo.s.marcialis@gmail.com)  |    [ www.linkedin.com/in/gustavomarcialis ](http://www.linkedin.com/in/gustavomarcialis)
   
  ---- 
   
