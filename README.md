@@ -1,6 +1,6 @@
 ## Olá, meu nome é <strong>Gustavo Marcialis!</strong> 
   
- > Sou um <strong>desenvolvedor Web</strong> PcD com foco em <strong>front-end.</strong> Formado no técnico em Informática para Internet, já desenvolvi projetos em WordPress utilizando as ferramentas Elementor e WooCommerce, além de páginas web utilizando o framework Bootstrap e conceitos de CSS flex-box, HTML semântico e JavaScript DOM, como uma calculadora de IMC, que solicita o peso e altura do cliente, calcula e apresenta seu Índice de Massa Corporal, uma tela visual de login e uma calculadora de gorjetas que, com base no valor total consumido e porcentagem da gorjeta, calcula e mostra o valor da gorjeta e total a ser pago.
+ > Sou um desenvolvedor front-end formado no técnico pela Etec. Tenho alguns projetos no portifólio de páginas web utilizando Bootstrap e conceitos de CSS flex-box, HTML semântico e JavaScript DOM, como uma calculadora de IMC, uma tela visual de login e uma calculadora de gorjetas.
   
   
  🔭 Estou participando da Academia .Net – Atos! 
