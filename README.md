@@ -7,6 +7,7 @@
  🔭 Estou participando da Academia .Net – Atos! 
   
  💬 Entre em contato comigo por Email, WhatsApp ou Linkedin! 
+  (13) 98110-9336  |  [ gustavo.s.marcialis@gmail.com ](mailto:gustavo.s.marcialis@gmail.com)  |    [ www.linkedin.com/in/gustavomarcialis ](http://www.linkedin.com/in/gustavomarcialis)
   
  ---- 
   
