@@ -1,6 +1,6 @@
 ## Olá, meu nome é <strong>Gustavo Marcialis!</strong> 
   
-  [![card](https://github-readme-stats.vercel.app/api?username=gustavo-marcialis&theme=highcontrast&show_icons=true)]
+  ![card](https://github-readme-stats.vercel.app/api?username=gustavo-marcialis&theme=highcontrast&show_icons=true)
   
  > Sou um desenvolvedor front-end formado no técnico pela Etec. Tenho alguns projetos no portifólio de páginas web utilizando Bootstrap e conceitos de CSS flex-box, HTML semântico e JavaScript DOM, como uma calculadora de IMC, uma tela visual de login e uma calculadora de gorjetas.
   
@@ -32,4 +32,4 @@
   
  --- 
  
- [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=iuricode&hide=html&layout=compact&theme=highcontrast)]
+ ![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavo-marcialis&hide=html&layout=compact&theme=highcontrast)
