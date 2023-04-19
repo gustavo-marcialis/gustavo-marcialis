@@ -10,7 +10,7 @@
   
  💬 Entre em contato comigo por Email, WhatsApp ou Linkedin! 
 
-(13) 98110-9336  |  [ gustavo.s.marcialis@gmail.com ](mailto:gustavo.s.marcialis@gmail.com)  |    [ www.linkedin.com/in/gustavomarcialis ](http://www.linkedin.com/in/gustavomarcialis)
+(13) 98110-9336  |  [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send/?phone=%2B5513981109336&text&type=phone_number&app_absent=0)  |  [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gustavo.s.marcialis@gmail.com)  |    [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/gustavomarcialis)
   
  ---- 
  
