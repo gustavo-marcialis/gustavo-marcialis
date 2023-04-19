@@ -1,5 +1,7 @@
 ## Olá, meu nome é <strong>Gustavo Marcialis!</strong> 
   
+  [![card](https://github-readme-stats.vercel.app/api?username=gustavo-marcialis&theme=highcontrast&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+  
  > Sou um desenvolvedor front-end formado no técnico pela Etec. Tenho alguns projetos no portifólio de páginas web utilizando Bootstrap e conceitos de CSS flex-box, HTML semântico e JavaScript DOM, como uma calculadora de IMC, uma tela visual de login e uma calculadora de gorjetas.
   
   > Minhas habilidades incluem HTML5, CSS3, JavaScript, Bootstrap e WordPress.
@@ -29,6 +31,3 @@
  - ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
   
  --- 
-  
- ## ⭐ Informações sobre minha conta GitHub 
-[![card](https://github-readme-stats.vercel.app/api?username=gustavo-marcialis&theme=highcontrast&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
