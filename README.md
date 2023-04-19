@@ -31,4 +31,4 @@
  --- 
   
  ## ⭐ Informações sobre minha conta GitHub 
- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gustavo-marcialis&show_icons=true)
+[![card](https://github-readme-stats.vercel.app/api?username=gustavo-marcialis&theme=highcontrast&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
