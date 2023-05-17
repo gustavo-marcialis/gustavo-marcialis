@@ -2,9 +2,13 @@
   
   ![card](https://github-readme-stats.vercel.app/api?username=gustavo-marcialis&theme=highcontrast&show_icons=true)
   
- > Sou um desenvolvedor front-end formado no técnico pela Etec. Tenho alguns projetos no portifólio de páginas web utilizando Bootstrap e conceitos de CSS flex-box, HTML semântico e JavaScript DOM, como uma calculadora de IMC, uma tela visual de login e uma calculadora de gorjetas.
+ > Sou um desenvolvedor Web PcD com foco em front-end. Formado no técnico em Informática para Internet, já atuei como professor de programação e algoritmo, além de já ter desenvolvido projetos em WordPress utilizando as ferramentas Elementor e WooCommerce, e páginas web utilizando o framework Bootstrap e conceitos de CSS flex-box, HTML semântico, responsividade e JavaScript DOM, como uma calculadora de maratona, que calcula e exibe em horas ou dias o tempo estimado para assistir uma série, uma calculadora de IMC que calcula e exibe o índice de massa corporal do usuário e sua categoria, e uma tela visual de login que recebe email e senha, com validação básica de dados em JavaScript.
   
-  > Minhas habilidades incluem HTML5, CSS3, JavaScript, Bootstrap e WordPress.
+  > Minhas principais habilidades são HTML5, CSS3, web design responsivo, JavaScript, PHP, Bootstrap, MySQL, Git e GitHub.
+  
+  > Experiência em resolução de problemas e gestão de tempo adquiridos através de estudos, competências que coloquei em prática durante o desenvolvimento dos meus projetos, presentes no meu portfólio.
+  
+  > Sou uma pessoa  adaptável, colaborativa e persistente, habilidades que demonstrei no desenvolvimento do meu TCC no curso técnico.
   
  🔭 Estou participando da Academia .Net – Atos! 
   
