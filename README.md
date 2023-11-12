@@ -2,24 +2,26 @@
   
   ![card](https://github-readme-stats.vercel.app/api?username=gustavo-marcialis&theme=highcontrast&show_icons=true)
   
- > Sou um desenvolvedor Web PcD com foco em front-end. Formado no técnico em Informática para Internet, já atuei como professor de programação e algoritmo, além de já ter desenvolvido projetos em WordPress utilizando as ferramentas Elementor e WooCommerce, e páginas web utilizando o framework Bootstrap e conceitos de CSS flex-box, HTML semântico, responsividade e JavaScript DOM, como uma calculadora de maratona, que calcula e exibe em horas ou dias o tempo estimado para assistir uma série, uma calculadora de IMC que calcula e exibe o índice de massa corporal do usuário e sua categoria, e uma tela visual de login que recebe email e senha, com validação básica de dados em JavaScript.
+  > Desenvolvedor Web Front-end e Back-end, formado no técnico em Informática para Internet pela Etec. Atuei como Professor de Programação e Algoritmo.
   
-  > Minhas principais habilidades são HTML5, CSS3, web design responsivo, JavaScript, PHP, Bootstrap, MySQL, Git e GitHub.
+   > Minhas principais habilidades são Angular, Spring Boot, .Net, TypeScript, JavaScript, Java, C#, Bootstrap, SQL server, MySQL
   
   > Experiência em resolução de problemas e gestão de tempo adquiridos através de estudos, competências que coloquei em prática durante o desenvolvimento dos meus projetos, presentes no meu portfólio.
   
   > Sou uma pessoa  adaptável, colaborativa e persistente, habilidades que demonstrei no desenvolvimento do meu TCC no curso técnico.
   
- 🔭 Estou participando da Academia .Net – Atos! 
-  
  💬 Entre em contato comigo por Email, WhatsApp ou Linkedin! 
 
-(13) 98110-9336  [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send/?phone=%2B5513981109336&text&type=phone_number&app_absent=0)    [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gustavo.s.marcialis@gmail.com)      [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/gustavomarcialis)
+(13) 98221-9273  [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send/?phone=%2B5513982219273&text&type=phone_number&app_absent=0)    [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gustavo.s.marcialis@gmail.com)      [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/gustavomarcialis)
   
  ---- 
  
  ## 🚀 Minhas Skills 
  
+ - ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+ - ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+ - ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+ - ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
  - ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
  - ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
  - ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
