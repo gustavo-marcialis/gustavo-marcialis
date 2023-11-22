@@ -1,13 +1,13 @@
 <div align=center>
 
-   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=2000&color=2383FF&&center=true&Center=truewidth=100%&lines=Ol%C3%A1+!+Olá,+Mundo!;Meu+nome+é+Gustavo+Marcialis;Sou+Dev+Front-End+Back-End!;)](https://git.io/typing-svg)
+   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=2000&color=2383FF&&center=true&Center=truewidth=100%&lines=Ol%C3%A1+!+,+Mundo!;Meu+nome+é+Gustavo+Marcialis;Sou+Dev+Front-End+Back-End!;)](https://git.io/typing-svg)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Euller-Pinheiro&theme=github_dark&hide_border=true&show_icons=true&hide_boder=true)](https://github.com/anuraghazra/github-readme-stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=gustavo-marcialis&theme=github_dark&hide_border=true&show_icons=true&hide_boder=true)](https://github.com/anuraghazra/github-readme-stats" />
 </a>
   
   <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Euller-Pinheiro&theme=github_dark&layout=compact&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavo-marcialis&theme=github_dark&layout=compact&hide_border=true" />
 </a> 
   
 💬 Entre em contato comigo por Email, WhatsApp ou Linkedin! 
