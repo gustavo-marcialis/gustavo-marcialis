@@ -16,7 +16,7 @@
  
   </div><br>
  
- <div align=center>
+ <div>
  <h3>Habilidades</h3>
  </div>
  <div style="display: inline-block"><br>
