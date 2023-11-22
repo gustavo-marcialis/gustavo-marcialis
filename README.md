@@ -17,7 +17,7 @@
   </div><br>
  
  <div align=center>
- # Habilidades
+ <h3>Habilidades</h3>
  </div>
  <div style="display: inline-block"><br>
     <img align="center" alt="angular" height=70 width=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
