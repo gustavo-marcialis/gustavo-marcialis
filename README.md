@@ -25,7 +25,7 @@
     <img align="center" alt="javascript" height=70 width=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
       <img align="center" alt="net" height=70 width=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
       <img align="center" alt="csharp" height=70 width=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
-      <img align="center" alt="sql" height=70 width=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" />
+      <img align="center" alt="sql" height=70 width=60 src="sql.png" />
     <img align="center" alt="html5" height=70 width=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
     <img align="center" alt="css3" height=70 width=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
     <img align="center" alt="github" height=70 width=60 src="github.png"/>   
