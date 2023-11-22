@@ -1,5 +1,8 @@
 ## Olá, meu nome é <strong>Gustavo Marcialis!</strong> 
   
+  <img src="imagem.png">
+  
+  
   ![card](https://github-readme-stats.vercel.app/api?username=gustavo-marcialis&theme=highcontrast&show_icons=true)
   
   > Desenvolvedor Web Front-end e Back-end, formado no técnico em Informática para Internet pela Etec. Atuei como Professor de Programação e Algoritmo.
