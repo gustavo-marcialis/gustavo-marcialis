@@ -1,14 +1,10 @@
 <img src="https://iili.io/JxakSa4.png" min-width="300px" max-width="300px" width="300px" align="right">
 
-<div align=center>
    [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=2000&color=2383FF&&center=true&Center=truewidth=100%&lines=Ol%C3%A1,+Mundo!;Meu+nome+é+Gustavo+Marcialis;Sou+Dev+Front-End+e+Back-End;)](https://git.io/typing-svg)
-</div>
 
-<p align="left">
 💬 Entre em contato comigo por Email, WhatsApp ou Linkedin! 
 
 (13) 98221-9273  [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send/?phone=%2B5513982219273&text&type=phone_number&app_absent=0)    [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gustavo.s.marcialis@gmail.com)      [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/gustavomarcialis)
-</p>
 
 <strong>Habilidades:<strong>
 
