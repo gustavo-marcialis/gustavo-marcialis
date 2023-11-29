@@ -1,6 +1,6 @@
-# Sandy Pirôpo
+# Gustavo Marcialis
 
-<img src="https://iili.io/HyiXz8P.png" min-width="300px" max-width="300px" width="300px" align="right">
+<img src="https://iili.io/JxMkHOb.png" min-width="300px" max-width="300px" width="300px" align="right">
 
 <p align="left"> 
       Hello there! I'm a 24-year-old aspiring <strong>Java developer</strong> currently pursuing a degree in <strong>Systems Analysis</strong>.
