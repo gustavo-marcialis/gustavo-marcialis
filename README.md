@@ -3,46 +3,35 @@
 <img src="https://iili.io/JxMkHOb.png" min-width="300px" max-width="300px" width="300px" align="right">
 
 <p align="left"> 
-      Hello there! I'm a 24-year-old aspiring <strong>Java developer</strong> currently pursuing a degree in <strong>Systems Analysis</strong>.
+	Olá, Mundo! Meu nome é Gustavo Marcialis, sou formado no Técnico em Informática para Internet pela Etec e na Academia .NET pela UFN.
 </p>
 
 <p align="left">
-  🕑 I'm Learning: <strong>Java OOP (Udemy), relational databases and Spring</strong>
+  🕑 Atuo Com: <strong>Angular, .NET, Bootstrap, SQL Server, MySQL, TypeScript, JavaScript, WordPress, HTML5 e CSS3.</strong>
 </p>
 
 <p align="left">
- <strong>You can find me on:<strong>
+ <strong>Entre em Contato Comigo!<strong>
 </p>
 
 <p align="left">
-<a href="mailto:sandypiropodev@gmail.com">
-  <img src="https://img.shields.io/badge/-Gmail-gray?style=flat-square&labelColor=white&logo=gmail&logoColor=gray&link=mailto:sandypiropodev@gmail.com" />
+<a href="mailto:gustavo.s.marcialis@gmail.com">
+  <img src="https://img.shields.io/badge/-Gmail-gray?style=flat-square&labelColor=white&logo=gmail&logoColor=gray&link=mailto:gustavo.s.marcialis@gmail.com" />
 </a>
 
-<a href="https://discord.gg/sandevz" alt="Discord">
-  <img src="https://img.shields.io/badge/-Discord-gray?style=flat-square&labelColor=gray&logo=discord&logoColor=white&link=https://discord.gg/miojodetomate#4047"/>
-</a>
-
-<a href="https://twitter.com/sandevz" alt="Twitter">
-  <img src="https://img.shields.io/badge/-Twitter-gray?style=flat-square&labelColor=gray&logo=twitter&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/sandypiropo" alt="LinkedIn">
-  <img src="https://img.shields.io/badge/-Linkedin-gray?style=flat-square&labelColor=gray&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sandy-piropo-67b113217/"/>
+<a href="https://www.linkedin.com/in/gustavomarcialis" alt="LinkedIn">
+  <img src="https://img.shields.io/badge/-Linkedin-gray?style=flat-square&labelColor=gray&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gustavomarcialis"/>
 </a>
 
 
-<strong>My Skills:<strong>
+<strong>Skills:<strong>
 
  <details>
-    <summary>Languages</summary>
+    <summary>Frameworks</summary>
 
-  ![Python](https://img.shields.io/badge/python-100000?style=for-the-badge&logo=python&logoColor=blue)
-  ![Java](https://img.shields.io/badge/Java-100000?style=for-the-badge&logo=CoffeeScript)
-  ![C](https://img.shields.io/badge/C-100000?style=for-the-badge&logo=C&logoColor=gray)
-  ![Javascript](https://img.shields.io/badge/javascript-100000?style=for-the-badge&logo=JavaScript)
-  ![CSS3](https://img.shields.io/badge/css3-100000?style=for-the-badge&logo=css3&logoColor=blue)
-  ![HTML5](https://img.shields.io/badge/html-100000?style=for-the-badge&logo=html5)
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
   </details>
   <details>
     <summary>Tools</summary>
