@@ -1,38 +1,73 @@
-<div align=center>
+# Sandy Pirôpo
 
-   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=2000&color=2383FF&&center=true&Center=truewidth=100%&lines=Ol%C3%A1,+Mundo!;Meu+nome+é+Gustavo+Marcialis;Sou+Dev+Front-End+e+Back-End;)](https://git.io/typing-svg)
+<img src="https://iili.io/HyiXz8P.png" min-width="300px" max-width="300px" width="300px" align="right">
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=gustavo-marcialis&theme=github_dark&hide_border=true&show_icons=true&hide_boder=true)](https://github.com/anuraghazra/github-readme-stats" />
+<p align="left"> 
+      Hello there! I'm a 24-year-old aspiring <strong>Java developer</strong> currently pursuing a degree in <strong>Systems Analysis</strong>.
+</p>
+
+<p align="left">
+  🕑 I'm Learning: <strong>Java OOP (Udemy), relational databases and Spring</strong>
+</p>
+
+<p align="left">
+ <strong>You can find me on:<strong>
+</p>
+
+<p align="left">
+<a href="mailto:sandypiropodev@gmail.com">
+  <img src="https://img.shields.io/badge/-Gmail-gray?style=flat-square&labelColor=white&logo=gmail&logoColor=gray&link=mailto:sandypiropodev@gmail.com" />
 </a>
-  
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavo-marcialis&theme=github_dark&layout=compact&hide_border=true" />
-</a> 
-  
-💬 Entre em contato comigo por Email, WhatsApp ou Linkedin! 
 
-(13) 98221-9273  [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send/?phone=%2B5513982219273&text&type=phone_number&app_absent=0)    [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gustavo.s.marcialis@gmail.com)      [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/gustavomarcialis)
- 
-  </div><br>
- 
- <div>
- <h3>Habilidades</h3>
- </div>
- <div style="display: inline-block"><br>
-    	    <img align="center" alt="angular" height=70 width=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
-    	    <img align="center" alt="net" height=70 width=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
-    	    <img align="center" alt="Bootstrap" height=70 width=60 src="bootstrap.png"/>   
-    	<img align="center" alt="typescript" height=70 width=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-    	<img align="center" alt="javascript" height=70 width=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-     	<img align="center" alt="csharp" height=70 width=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
-    	 <img align="center" alt="html5" height=70 width=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-    	 <img align="center" alt="css3" height=70 width=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-    	<img align="center" alt="sql" height=70 width=60 src="sql.png" />
-    	<img align="center" alt="github" height=70 width=60 src="github.png"/>   
- </div>
- 
- <br><br>
-  
-  
+<a href="https://discord.gg/sandevz" alt="Discord">
+  <img src="https://img.shields.io/badge/-Discord-gray?style=flat-square&labelColor=gray&logo=discord&logoColor=white&link=https://discord.gg/miojodetomate#4047"/>
+</a>
+
+<a href="https://twitter.com/sandevz" alt="Twitter">
+  <img src="https://img.shields.io/badge/-Twitter-gray?style=flat-square&labelColor=gray&logo=twitter&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/sandypiropo" alt="LinkedIn">
+  <img src="https://img.shields.io/badge/-Linkedin-gray?style=flat-square&labelColor=gray&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sandy-piropo-67b113217/"/>
+</a>
+
+
+<strong>My Skills:<strong>
+
+ <details>
+    <summary>Languages</summary>
+
+  ![Python](https://img.shields.io/badge/python-100000?style=for-the-badge&logo=python&logoColor=blue)
+  ![Java](https://img.shields.io/badge/Java-100000?style=for-the-badge&logo=CoffeeScript)
+  ![C](https://img.shields.io/badge/C-100000?style=for-the-badge&logo=C&logoColor=gray)
+  ![Javascript](https://img.shields.io/badge/javascript-100000?style=for-the-badge&logo=JavaScript)
+  ![CSS3](https://img.shields.io/badge/css3-100000?style=for-the-badge&logo=css3&logoColor=blue)
+  ![HTML5](https://img.shields.io/badge/html-100000?style=for-the-badge&logo=html5)
+  </details>
+  <details>
+    <summary>Tools</summary>
+
+  ![Git](https://img.shields.io/badge/git-100000?style=for-the-badge&logo=git)
+  ![Flask](https://img.shields.io/badge/flask-100000?style=for-the-badge&logo=flask)
+  ![Figma](https://img.shields.io/badge/figma-100000?style=for-the-badge&logo=figma)
+  ![Postman](https://img.shields.io/badge/postman-100000?style=for-the-badge&logo=postman)
+  </details>
+
+# My Status
+<div>
+  <table style="margin: 0 auto;" align="center">
+    <tr>
+      <td>
+        <img height="170px" src="https://github-readme-streak-stats.herokuapp.com/?user=sandypiropo&theme=react&hide_border=false"/>
+      </td>
+      <td>
+        <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandypiropo&layout=compact&theme=react&count_private=true"/>
+      </td>
+    </tr>
+  </table>
 </div>
+
+
+<!--
+![overview](https://raw.githubusercontent.com/sandypiropo/github-stats/master/generated/overview.svg)
+![langs used](https://raw.githubusercontent.com/sandypiropo/github-stats/master/generated/languages.svg)
