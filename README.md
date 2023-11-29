@@ -34,12 +34,11 @@
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
   </details>
   <details>
-    <summary>Tools</summary>
+    <summary>Linguagens</summary>
 
-  ![Git](https://img.shields.io/badge/git-100000?style=for-the-badge&logo=git)
-  ![Flask](https://img.shields.io/badge/flask-100000?style=for-the-badge&logo=flask)
-  ![Figma](https://img.shields.io/badge/figma-100000?style=for-the-badge&logo=figma)
-  ![Postman](https://img.shields.io/badge/postman-100000?style=for-the-badge&logo=postman)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
   </details>
 
 # My Status
