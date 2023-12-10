@@ -2,14 +2,17 @@
 
    [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=2000&color=2383FF&&center=true&Center=truewidth=100%&lines=Ol%C3%A1,+Mundo!;Meu+nome+é+Gustavo+Marcialis;Sou+Dev+Front-End+e+Back-End;)](https://git.io/typing-svg)
 
-<img src="https://iili.io/JxMkHOb.png" min-width="300px" max-width="300px" width="300px" align="right">
+<div align="right">
+	<img src="https://iili.io/JxMkHOb.png" min-width="100px" max-width="100px" width="100px">
+	<img src="https://iili.io/JTu7IGp.png" min-width="100px" max-width="100px" width="100px">
+</div>
 
 <p align="left"> 
 	Olá, Mundo! Meu nome é Gustavo Marcialis, sou formado no Técnico em Informática para Internet pela Etec e na Academia .NET pela UFN.
 </p>
 
 <p align="left">
-  🕑 Atuo Com: <strong>Angular, .NET, Bootstrap, SQL Server, MySQL, TypeScript, JavaScript, WordPress, HTML5 e CSS3.</strong>
+  🕑 Atuo Com: <strong>Angular, React, .NET, Bootstrap, SQL Server, MySQL, TypeScript, JavaScript, WordPress, HTML5 e CSS3.</strong>
 </p>
 
 <p align="left">
@@ -32,6 +35,7 @@
     <summary>Frameworks</summary>
 
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
   </details>
