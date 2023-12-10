@@ -2,9 +2,9 @@
 
    [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=2000&color=2383FF&&center=true&Center=truewidth=100%&lines=Ol%C3%A1,+Mundo!;Meu+nome+é+Gustavo+Marcialis;Sou+Dev+Front-End+e+Back-End;)](https://git.io/typing-svg)
 
-<div align="right">
-	<img src="https://iili.io/JxMkHOb.png" min-width="100px" max-width="100px" width="100px">
-	<img src="https://iili.io/JTu7IGp.png" min-width="100px" max-width="100px" width="100px">
+<div align="left">
+	<img src="https://iili.io/JxMkHOb.png" min-width="150px" max-width="150px" width="150px">
+	<img src="https://iili.io/JTu7IGp.png" min-width="150px" max-width="150px" width="150px">
 </div>
 
 <p align="left"> 
